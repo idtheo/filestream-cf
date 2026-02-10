@@ -67,6 +67,7 @@ Stream Link: XX.XX.workers.dev/?file=GRJUYMDDJRFGK&mode=inline
 
 <br>
 
-## 📷 Screenshot
+## 📷 Screenshot is here
 
 <a href="#Screenshot"><img src="https://github.com/user-attachments/assets/09101285-c68c-44a1-aaa1-e2d5c4c0cf90" width="300px"></a>
+
